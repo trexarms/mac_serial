@@ -6,7 +6,7 @@ git status
 git add [file]
     add a file
 git add .
-git commit "[add note on what's been changed]"  
+git commit -m "[add note on what's been changed]"  
 git push origin [branch_name]
     upload all the local files to github repo
     default branch_name is master
